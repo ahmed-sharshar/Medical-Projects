@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-02-17T16:34:29.588701",
+    "startedAt": "2023-02-17T16:34:26.122171",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Downloads/HC Asiignment 2/Task2/task2.ipynb",
+    "root": "C:\\Users\\ahmed",
+    "host": "AhmedSharshar",
+    "username": "ahmed",
+    "executable": "C:\\Users\\ahmed\\anaconda3\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2304.0,
+        "min": 0.0,
+        "max": 2304.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 2304.0
+        }
+    ],
+    "disk": {
+        "total": 457.04296493530273,
+        "used": 139.9805679321289
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.74490737915039
+    }
+}

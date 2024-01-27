@@ -1,0 +1,11 @@
+FN, Frame1, Frame2
+video59.avi,49,65
+video4.avi,28,43
+video88.avi,26,43
+video27.avi,80,97
+video87.avi,44,63
+video55.avi,0,12
+video18.avi,45,58
+video7.avi,44,53
+video78.avi,135,146
+video49.avi,156,176

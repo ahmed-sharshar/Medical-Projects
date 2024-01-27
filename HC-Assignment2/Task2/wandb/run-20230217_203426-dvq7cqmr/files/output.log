@@ -1,0 +1,19 @@
+filepaths:  4600    labels:  4600
+Healthy    3800
+tb          800
+Name: labels, dtype: int64
+0.95686275
+torch.Size([3680, 3, 224, 224])
+torch.Size([3680])
+torch.Size([920, 3, 224, 224])
+torch.Size([920])
+cpu
+epoch number: 0
+
+  0%|                                                                                       | 0/115 [00:10<?, ?batch/s]
+  0%|                                                                                       | 0/115 [00:00<?, ?batch/s]
+
+  0%|                                                                                       | 0/115 [00:09<?, ?batch/s]
+  0%|                                                                                       | 0/115 [00:00<?, ?batch/s]
+
+
